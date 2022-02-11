@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.about{
+    color: purple;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Fascinate', cursive;
+    text-transform: uppercase;
+}
+.para{
+    font-family: 'Fascinate', cursive;
+    font-size: 1rem;
+    border: 1px solid white;
+    padding: 50px;
+}

@@ -1,0 +1,28 @@
+#articles{
+    color: blue;
+    text-align: center;
+    font-family: 'Fascinate', cursive;
+    text-transform: uppercase;
+}
+
+.article{
+    color: purple;
+    font-size: 1rem;
+    font-family: 'Fascinate', cursive;
+    text-transform: uppercase;
+    text-align: center;
+    right: 2rem;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.para{
+    font-family: 'Fascinate', cursive;
+    font-size: 1rem;
+    border: 1px solid black;
+}
+.upv{
+    font-size: .8rem;
+    text-align: center;
+    font-family: 'Fascinate', cursive;
+
+}
